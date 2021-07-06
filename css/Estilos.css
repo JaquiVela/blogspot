@@ -1,7 +1,7 @@
 body 
 {   color: #333;
-    text-align: left;
-    font-family: courier;
+    text-align: center;
+    font-family: Georgia;
 }
 
 #container
@@ -10,4 +10,13 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
+   
+
 }
+
+#container h1
+{
+    font-size: 50px;
+}
+
+
