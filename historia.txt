@@ -2,4 +2,6 @@ Esta es la historia de como aprender
 
 a utilizar git 
 
-y demas 
+y demas.
+
+Son dos versiones que se necesita tener, 
