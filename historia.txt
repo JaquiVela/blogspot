@@ -4,4 +4,4 @@ a utilizar git
 
 y demas.
 
-Son dos versiones que se necesita tener, 
+Definitivamente este curso abre la mente para reconocer todas las posibles formas de versionamiento de un proyecto
